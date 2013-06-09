@@ -21,5 +21,5 @@ def lpp():
 					if num % l == 0 and num / l <= 999:
 						return num * 11
 if __name__ == '__main__':
-	print lpp()
-
+	#print lpp()
+	print timeit.timeit("print lpp()", number = 1, setup = "from __main__ import lpp")
