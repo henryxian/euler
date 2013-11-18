@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 memo = {}
 
 def collatz(start_num):

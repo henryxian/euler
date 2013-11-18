@@ -1,4 +1,4 @@
-#usr/bin/env python
+#!usr/bin/env python
 
 def sum(num):
 	return (1 + num) * num / 2

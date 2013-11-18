@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import timeit
 rang = [r for r in range(0, 10)]
 rang.reverse()
