@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from math import sqrt
 if __name__ == '__main__':
 	found = False
